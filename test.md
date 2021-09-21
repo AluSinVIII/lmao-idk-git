@@ -1,6 +1,6 @@
-# Brsqdfweig Maeaeza
+# Braunschweig Malo
 ---
-Poeazier
+DSI
 
-https://giazethub.com/**********VIII/as8-trzedreodolist
+https://github.com/AluSinVIII/as8-todolist
 ---
